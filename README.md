@@ -26,32 +26,10 @@ Student working across software and data-driven research. Recent work spans a fu
   </a>
 </p>
 
-### GitHub stats
-
-<p align="left">
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gaarbra&theme=default" />
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaarbra&theme=default" />
-</p>
-
-### Activity
-
-<p align="left">
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gaarbra&theme=default" />
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gaarbra&theme=default&utcOffset=-8" />
-</p>
-
 <!--
 Setup notes (delete once you're happy with the README):
 1. Create a new PUBLIC repo on GitHub named exactly "Gaarbra" (must match your username exactly).
 2. Add this file as README.md at the repo root — GitHub auto-displays it on your profile page.
 3. Add real links (LinkedIn, portfolio, resume) under Projects/Tech if you want them — kept out
    here since I don't have those URLs.
-4. Stats/activity cards come from github-profile-summary-cards.vercel.app (a free public service,
-   no API key needed). The original github-readme-stats.vercel.app and
-   github-readme-activity-graph.vercel.app instances are both currently suspended
-   (DEPLOYMENT_PAUSED / payment required on the maintainer's Vercel account) — this is an
-   ecosystem-wide problem with these shared demo widgets, not something fixable from the README
-   side. If this mirror ever goes down too, the permanent fix is deploying your own copy via the
-   "Deploy to Vercel" button on the project's GitHub repo, then pointing the URLs at your own
-   deployment.
 -->
