@@ -22,7 +22,7 @@ Student working across software and data-driven research. Recent work spans a fu
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,java,powershell,aws,git&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,postgres,aws,r,sklearn,git,java,js,powershell&theme=light&perline=5" />
   </a>
 </p>
 
