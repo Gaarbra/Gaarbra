@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:131315,55:3A1E05,100:FF8A00&text=Gabe%20Girma&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Data%20Science%20%2B%20Economics%20%C2%B7%20Claremont%20McKenna%20%2728&descSize=18&descAlignY=58" alt="Gabe Girma, Data Science and Economics at Claremont McKenna College, Class of 2028" width="100%">
-</p>
+<h1 align="center">Gabe Girma</h1>
+<p align="center"><b>Data Science + Economics · Claremont McKenna '28</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=FF8A00&center=true&vCenter=true&width=620&lines=I+build+data+pipelines+and+ML+models;I+test+them+so+the+results+hold+up;Looking+for+Summer+2027+internships" alt="I build data pipelines and ML models. I test them so the results hold up. Looking for Summer 2027 internships.">
@@ -81,5 +80,3 @@ I'm Gabe, a junior at Claremont McKenna College studying Data Science and Econom
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Gaarbra&label=Profile%20views&color=FF8A00&style=for-the-badge" alt="Profile views"></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:FF8A00,45:3A1E05,100:131315" width="100%" alt="">
