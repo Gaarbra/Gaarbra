@@ -1,0 +1,33 @@
+name: Spotify token (one time)
+
+on:
+  workflow_dispatch:
+    inputs:
+      redirect_url:
+        description: "Full URL from the address bar after the Spotify login"
+        required: true
+      state:
+        description: "The state value you put in the login URL"
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  save-token:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Swap code for refresh token and save it as a secret
+        env:
+          REDIRECT_URL: ${{ inputs.redirect_url }}
+          EXPECTED_STATE: ${{ inputs.state }}
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          GH_TOKEN: ${{ secrets.SECRETS_PAT }}
+        run: python scripts/save_refresh_token.py

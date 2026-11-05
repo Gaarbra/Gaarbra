@@ -69,6 +69,15 @@ I'm Gabe, a junior at Claremont McKenna College studying Data Science and Econom
 
 <p align="center"><sub>Also: pandas · NumPy · torchvision · SQLAlchemy · boto3 · Celery · Socket.IO · SLURM · Excel · panel econometrics · cross-validation · permutation testing</sub></p>
 
+## Listening
+
+<p align="center">
+<!-- SPOTIFY:START -->
+<img src="https://img.shields.io/badge/Spotify-0%20minutes%20listened-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify: 0 minutes listened">
+<br><sub>Last updated 2026-11-05 23:07 UTC</sub>
+<!-- SPOTIFY:END -->
+</p>
+
 ## GitHub stats
 
 <p align="center">
