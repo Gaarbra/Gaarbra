@@ -73,8 +73,8 @@ I'm Gabe, a junior at Claremont McKenna College studying Data Science and Econom
 
 <p align="center">
 <!-- SPOTIFY:START -->
-<img src="https://img.shields.io/badge/Spotify-741%20minutes%20listened-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify: 741 minutes listened">
-<br><sub>Last updated 2026-11-11 22:43 UTC</sub>
+<img src="https://img.shields.io/badge/Spotify-753%20minutes%20listened-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify: 753 minutes listened">
+<br><sub>Last updated 2026-11-12 03:50 UTC</sub>
 <!-- SPOTIFY:END -->
 </p>
 
