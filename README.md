@@ -1,9 +1,7 @@
 <h1 align="center">Gabe Girma</h1>
 <p align="center"><b>Data Science + Economics · Claremont McKenna '28</b></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=FF8A00&center=true&vCenter=true&width=620&lines=I+build+data+pipelines+and+ML+models;I+test+them+so+the+results+hold+up;Looking+for+Summer+2027+internships" alt="I build data pipelines and ML models. I test them so the results hold up. Looking for Summer 2027 internships.">
-</p>
+<p align="center">I build data pipelines and ML models, and test them so the results hold up.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielgirma"><img src="https://img.shields.io/badge/LinkedIn-gabrielgirma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: gabrielgirma"></a>
@@ -87,5 +85,3 @@ I'm Gabe, a junior at Claremont McKenna College studying Data Science and Econom
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Gaarbra&theme=dark&background=131315&ring=FF8A00&fire=FF8A00&currStreakLabel=FF8A00&hide_border=true" alt="GitHub contribution streak">
 </p>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Gaarbra&label=Profile%20views&color=FF8A00&style=for-the-badge" alt="Profile views"></p>
